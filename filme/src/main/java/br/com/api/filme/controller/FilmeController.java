@@ -1,3 +1,5 @@
+// Controlador REST que define os endpoints da API.
+
 package br.com.api.filme.controller;
 
 import java.util.List;

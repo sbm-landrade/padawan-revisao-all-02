@@ -1,3 +1,4 @@
+//Modelo que representa a entidade Filme no banco de dados.
 package br.com.api.filme.model;
 
 import jakarta.persistence.Entity;

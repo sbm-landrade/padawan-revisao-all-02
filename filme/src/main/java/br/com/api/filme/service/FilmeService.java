@@ -1,3 +1,4 @@
+//Serviço que contém a lógica de negócios para operações com filmes.
 package br.com.api.filme.service;
 
 import java.util.List;

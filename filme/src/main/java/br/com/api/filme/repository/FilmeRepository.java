@@ -1,3 +1,4 @@
+//Interface de repositório JPA para operações CRUD.
 package br.com.api.filme.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
